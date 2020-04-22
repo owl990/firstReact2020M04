@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/website/static/js/main.c054dc96.chunk.js",
-    "main.js.map": "/website/static/js/main.c054dc96.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.100ca399.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.100ca399.js.map",
-    "static/js/2.07a05dc4.chunk.js": "/website/static/js/2.07a05dc4.chunk.js",
-    "static/js/2.07a05dc4.chunk.js.map": "/website/static/js/2.07a05dc4.chunk.js.map",
-    "index.html": "/website/index.html",
-    "precache-manifest.443432022bbaccbdbcb88a5ffefea429.js": "/website/precache-manifest.443432022bbaccbdbcb88a5ffefea429.js",
-    "service-worker.js": "/website/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/website/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/firstReact2020M04/static/css/main.d1b05096.chunk.css",
+    "main.js": "/firstReact2020M04/static/js/main.b2d2075a.chunk.js",
+    "main.js.map": "/firstReact2020M04/static/js/main.b2d2075a.chunk.js.map",
+    "runtime-main.js": "/firstReact2020M04/static/js/runtime-main.b3ef3fef.js",
+    "runtime-main.js.map": "/firstReact2020M04/static/js/runtime-main.b3ef3fef.js.map",
+    "static/js/2.07a05dc4.chunk.js": "/firstReact2020M04/static/js/2.07a05dc4.chunk.js",
+    "static/js/2.07a05dc4.chunk.js.map": "/firstReact2020M04/static/js/2.07a05dc4.chunk.js.map",
+    "index.html": "/firstReact2020M04/index.html",
+    "precache-manifest.32aeac886d24dd03670acda06608e3f2.js": "/firstReact2020M04/precache-manifest.32aeac886d24dd03670acda06608e3f2.js",
+    "service-worker.js": "/firstReact2020M04/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/firstReact2020M04/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/firstReact2020M04/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/firstReact2020M04/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.100ca399.js",
+    "static/js/runtime-main.b3ef3fef.js",
     "static/js/2.07a05dc4.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c054dc96.chunk.js"
+    "static/js/main.b2d2075a.chunk.js"
   ]
 }
